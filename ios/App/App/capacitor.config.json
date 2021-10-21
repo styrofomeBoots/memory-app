@@ -1,0 +1,6 @@
+{
+	"appId": "com.sethnewbill.vuememories",
+	"appName": "Vue Memories",
+	"webDir": "public",
+	"bundledWebRuntime": false
+}
